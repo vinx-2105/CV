@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.18)  21 JAN 2019 20:14
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.18)  22 JAN 2019 22:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1137,25 +1137,10 @@ Overfull \hbox (68.5734pt too wide) in alignment at lines 10--30
 
 ) (./cv/experience.tex
 
-Package hyperref Warning: Suppressing link with empty target on input line 41.
-
-
 Package hyperref Warning: Suppressing link with empty target on input line 54.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 65.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 80.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 94.
-
-
 Package hyperref Warning: Suppressing link with empty target on input line 107.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 119.
 
 ) (./cv/extracurricular.tex
 Overfull \hbox (39.8169pt too wide) in alignment at lines 10--32
@@ -1163,7 +1148,7 @@ Overfull \hbox (39.8169pt too wide) in alignment at lines 10--32
  []
 
 ) (./cv/por.tex) (./cv/honors.tex
-Overfull \hbox (84.0394pt too wide) in alignment at lines 9--46
+Overfull \hbox (100.88289pt too wide) in alignment at lines 9--46
 [] [] 
  []
 
